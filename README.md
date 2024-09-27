@@ -69,6 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Sample
+## Sample
 
+Just type the name of the city and then press enter. Now you can see the weather in that city easily.
 
+<img src="https://github.com/kourosh07/weather-app/blob/main/Capture.PNG" alt="pic">
+
+##
+
+best regards :heart:
