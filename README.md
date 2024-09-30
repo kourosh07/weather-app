@@ -1,5 +1,10 @@
+## Weather app
 
-### Type the name of the city and then press enter. Now you can see the weather in that city easily.
+Type the name of the city and then press enter.
+
+Now you can see the weather in that city easily.
+
+## Demo
 
 <img src="https://github.com/kourosh07/weather-app/blob/main/Capture.PNG" alt="pic">
 
